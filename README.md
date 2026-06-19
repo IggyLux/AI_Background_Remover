@@ -20,3 +20,26 @@ Here's the tool in action:
 
 **After:**
 ![After](images/bg_removed_0932c38a59704551a0c6ddf6c10548be.png)
+
+
+## Example 2
+
+Here's the tool in action:
+
+**Before:**
+![Before](images/Gemini_Generated_Image_mt76l1mt76l1mt76.png)
+
+**After:**
+![After](images/image (3).webp)
+As you can see it's not perfect the railing is still there. But it cuts down on a lot of work removing complex backgrounds by hand.
+
+
+## Example 3
+
+Here's the tool in action:
+
+**Before:**
+![Before](images/LexiRef.png)
+
+**After:**
+![After](images/bg_removed_309f51889e864652b9217f8fe9c285b1.png)
